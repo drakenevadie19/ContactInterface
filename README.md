@@ -3,4 +3,4 @@ Guided by Mr. Emmanuel Henri in the course Building Full-Stack Apps with React a
 - Programming Languages: Java, HTML, CSS
 - Framework: Materialize CSS, Spring Boot
 - API development platform: Postman
-- UI library: React
+- UI library: React, Bootstrap 5
